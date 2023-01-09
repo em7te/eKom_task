@@ -2,6 +2,9 @@
 
 **python version:** *3.9*   
 
+**Ссылка на требования к выполнению задания:**   
+*`https://docs.google.com/document/d/1fMFwPBs53xzcrltEFOpEG4GWTaQ-5jvVLrNT6_hmC7I/edit?usp=sharing`*
+
 **venv:**   
 *source venv/bin/activate*
 
